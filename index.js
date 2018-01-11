@@ -7,11 +7,11 @@ function subtract(a, b) {
 }
 
 function multiply() {
-  return a * b
+  return (a * b)
 }
 
 function divide() {
-  return a / b
+  return (a / b)
 }
 
 function inc(n) {
